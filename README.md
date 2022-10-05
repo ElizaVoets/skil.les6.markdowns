@@ -1,6 +1,6 @@
 # Appelkruimel muffins
 
-![de muffins](file:///C:/Users/Eliza/OneDrive%20-%20Mediacollege%20Amsterdam/Bewijzenmap/jaar1/periode1.1/m1skil/opdrachten/les06/skil.les6.markdowns/img/appel-kruimelmuffins-2a.jpg)
+![de muffins](https://github.com/ElizaVoets/skil.les6.markdowns/blob/main/img/appel-kruimelmuffins-2a.jpg)
 
 ## Benodigdheden
 
